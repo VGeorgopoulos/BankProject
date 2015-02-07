@@ -1,0 +1,18 @@
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\bin\Debug\BankProject.exe
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\bin\Debug\BankProject.pdb
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.csprojResolveAssemblyReference.cache
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.Properties.Resources.resources
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.csproj.GenerateResource.Cache
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.exe
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.pdb
+C:\Users\chrysikos\Documents\GitHub\BankProject\BankProject\BankProject\obj\Debug\BankProject.MainForm.resources
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\bin\Debug\BankProject.exe.config
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.exe
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.pdb
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\bin\Debug\BankProject.exe
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\bin\Debug\BankProject.pdb
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.csprojResolveAssemblyReference.cache
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.MainForm.resources
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.Properties.Resources.resources
+C:\Users\Vasilis Georgopoulos\Documents\Visual Studio 2013\Projects\BankProject\BankProject\obj\Debug\BankProject.csproj.GenerateResource.Cache
